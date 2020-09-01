@@ -4,7 +4,7 @@ title: Exploring Poker Probabilities
 --- 
 ![poker-television]({{ site.baseurl }}/images/pokerImages/poker-television.jpg)
 
-Recently after graduation, I had some time to play Zynga poker. Zynga Poker uses fake money and is not similar to real life poker. However this has pique my interest on how to play poker optimally. This posts aims to calculate the probabilites from the perspective all the player.
+Recently after graduation, I had some time to play Zynga poker. Zynga Poker uses fake money and is not similar to real life poker. However this has pique my interest on how to play poker optimally. This posts aims to calculate the probabilites from the perspective someone who is playing the game.
 
 Calculating poker winning probabilities is not easy. The probabilites that one sees on televised poker tournaments often involves enumerating all possible outcomes. This is often computationally expensive and requires highly optimized code. It is also important to note that the probabilites in these televised competitions calculates the probabilies given that **all player cards are known**.
 
@@ -21,7 +21,7 @@ P(player1 wins | player1 has 8❤ and 9♦)
 Unfortunately there are not many programs that calculate the above probability. 
 
 # Estimating Probabilities for 5 player Texas Holdem
-Due to the high computational costs I have decided to estimate them. Estimation is a simple tasks. We just need to randomly shuffle and simulate the playouts and count the number of times that we win. For the purpose of this post I have decided to investigate 5 player Texas Holdem Poker from the perspective of a single player.
+Due to the high computational costs I have decided to estimate them. Estimation is a simple task. We just need to randomly shuffle and simulate the playouts and count the number of times that we win. For the purpose of this post I have decided to investigate 5 player Texas Holdem Poker from the perspective of a single player.
 
 # Preflop Probabilites
 
@@ -96,3 +96,6 @@ So two pair is better than having almost a flush/straight. Hence if you suspect 
 # Conclusion
 
 Of course the art to poker is more than just knowing the probabilites. Note that the above probabilites do not take into account actions taken by your opponents! If an opponent raises he is more likely to have good cards decreasing your winning chances. Or your opponent might be bluffing. Note that the objective of poker is not to win the most number of hands but to win the most amount of money. Hence to be a good poker player one needs to convince your opponent that you are bluffing when you are not and bluff when your opponent thinks you are telling the truth while minimizing the loss if caught bluffing. As a last note, AI has already reached [superhuman level](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/) with poker.
+
+# Code
+[![Open In Colab](https://colab.research.google.com/github/garyongguanjie/deuces/blob/master/poker.ipynb)
