@@ -21,7 +21,7 @@ P(player1 wins | player1 has 8❤ and 9♦)
 Unfortunately there are not many programs that calculate the above probability. 
 
 # Estimating Winning Probabilities for 5 player Texas Holdem
-Due to the high computational costs I have decided to estimate them. Estimation is a simple task. We just need to randomly shuffle and simulate the playouts. The winrate would be the number of times that the hand won divided by the number of hands played. For the purpose of this post I have decided to investigate **5 player** Texas Holdem Poker from the perspective of a single player.
+Due to the high computational costs I have decided to estimate them. Estimation is a simple task. We just need to randomly shuffle and simulate the playouts. The winning probability would be estimated as the number of times that the hand won divided by the number of hands played. For the purpose of this post I have decided to investigate **5 player** Texas Holdem Poker from the perspective of a single player.
 
 # Preflop Winning Probabilites
 
