@@ -12,7 +12,7 @@ Bachelor of Engineering, Information Systems Technology and Design (Honours with
 Specialised in Artificial Intelligence and Data Analytics
 
 ### Skills
-Languanges: Python, Java, Javascript, C \
+Languages: Python, Java, Javascript, C \
 Machine Learning Skills: Natural Languange Processing, Computer Vision, Deep Learning, Reinforcement Learning, Game AI
 
 ### Contact me
