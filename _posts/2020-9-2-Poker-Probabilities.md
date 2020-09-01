@@ -4,7 +4,7 @@ title: Exploring Poker Probabilities
 --- 
 ![poker-television]({{ site.baseurl }}/images/pokerImages/poker-television.jpg)
 
-Recently after graduation, I had some time to play Zynga poker. Zynga Poker uses fake money and is not similar to real life poker. However this has pique my interest on how to play poker optimally. This posts aims to calculate the probabilites from the perspective someone who is playing the game.
+Recently after graduation, I had some time to play Zynga poker. Zynga Poker uses fake money and is not similar to real life poker. However this has pique my interest on how to play poker optimally. This posts aims to calculate the probabilites from the perspective of someone who is playing the game.
 
 Calculating poker winning probabilities is not easy. The probabilites that one sees on televised poker tournaments often involves enumerating all possible outcomes. This is often computationally expensive and requires highly optimized code. It is also important to note that the probabilites in these televised competitions calculates the probabilies given that **all player cards are known**.
 
