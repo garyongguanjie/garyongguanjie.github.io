@@ -8,7 +8,7 @@ permalink: /projects/
 
 In this project I used DistilBert to analyse comments of COVID19 announcements by Prime Minister Lee Hsien Loong. 
 The dataset I used was from Kaggle which has both emotion and sentiment labels. 
-The results were so fascinating that I even wrote a [post](https://garyongguanjie.github.io/youtube_comments_sentiment_emotion/) about it. 
+The results were so fascinating that I even wrote a [post](/My-Fellow-Singaporeans-How-Are-You-Feeling) about it. 
 
 ### Deep Image Captioning With Attention
 
