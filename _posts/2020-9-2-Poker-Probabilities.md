@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring Poker Probabilities
+title: Exploring Poker Winning Probabilities
 --- 
 ![poker-television]({{ site.baseurl }}/images/pokerImages/poker-television.jpg)
 
@@ -20,12 +20,12 @@ P(player1 wins | player1 has 8❤ and 9♦)
 
 Unfortunately there are not many programs that calculate the above probability. 
 
-# Estimating Probabilities for 5 player Texas Holdem
+# Estimating Winning Probabilities for 5 player Texas Holdem
 Due to the high computational costs I have decided to estimate them. Estimation is a simple task. We just need to randomly shuffle and simulate the playouts and count the number of times that we win. For the purpose of this post I have decided to investigate 5 player Texas Holdem Poker from the perspective of a single player.
 
-# Preflop Probabilites
+# Preflop Winning Probabilites
 
-Here are the estimated probabilites for unsuited preflop and suited preflop. For those unfamiliar preflop is where there is no card shown yet.
+Here are the estimated winning probabilites for unsuited preflop and suited preflop. For those unfamiliar preflop is where there is no card shown yet. Note unsuited means both cards have different suits. While suited menas both cards have the same suit.
 
 ![unsuited-preflop]({{ site.baseurl }}/images/pokerImages/unsuited-preflop.PNG)
 
@@ -33,7 +33,7 @@ Here are the estimated probabilites for unsuited preflop and suited preflop. For
 
 As one would expect suited probabilites are much higher than unsuited. It gives about a 6% advantage. As a general rule one shoulld almost always fold if your winning probabilites is less than 1/number of players. Also note that pair starting hands are very much higher than the average hand and one should almost always play if one has 8 pair or higher.
 
-# Postflop Probabilites
+# Postflop  Winning Probabilites
 
 Post Flop is harder to investigate as there are so many possibilites and it is impossible to put all of them in a table. For the purpose of this let us investigate the winning probabilities if you have 7,8.
 
