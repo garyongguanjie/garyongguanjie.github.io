@@ -27,9 +27,9 @@ Due to the high computational costs I have decided to estimate them. Estimation 
 
 Here are the estimated probabilites for unsuited preflop and suited preflop. For those unfamiliar preflop is where there is no card shown yet.
 
-[unsuited-preflop]({{ site.baseurl }}/images/pokerImages/unsuited-preflop.PNG)
+![unsuited-preflop]({{ site.baseurl }}/images/pokerImages/unsuited-preflop.PNG)
 
-[suited-preflop]({{ site.baseurl }}/images/pokerImages/suited-preflop.PNG)
+![suited-preflop]({{ site.baseurl }}/images/pokerImages/suited-preflop.PNG)
 
 As one would expect suited probabilites are much higher than unsuited. It gives about a 6% advantage. As a general rule one shoulld almost always fold if your winning probabilites is less than 1/number of players. Also note that pair starting hands are very much higher than the average hand and one should almost always play if one has 8 pair or higher.
 
