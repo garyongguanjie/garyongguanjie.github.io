@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Winning Poker with Probabilities
+title: Exploring Poker Probabilities
 --- 
-# Exploring Poker Probabilities
+![poker-television]({{ site.baseurl }}/images/pokerImages/poker-television.jpg)
 
 Recently after graduation, I had some time to play Zynga poker. Zynga Poker uses fake money and is not similar to real life poker. However this has pique my interest on how to play poker optimally. This posts aims to calculate the probabilites from the perspective all the player.
 
 Calculating poker winning probabilities is not easy. The probabilites that one sees on televised poker tournaments often involves enumerating all possible outcomes. This is often computationally expensive and requires highly optimized code. It is also important to note that the probabilites in these televised competitions calculates the probabilies given that **all player cards are known**.
-
-[poker-television]({{ site.baseurl }}/images/pokerImages/poker-television.jpg)
 
 For example in the image above the probabilities are calculated with 8❤ and 9♦ for the 1st player and 2♣ and K♣ for the 2nd player. Hence in the above image the probability that player 1 wins is computed as 
 ```
