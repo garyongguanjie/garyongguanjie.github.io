@@ -19,5 +19,5 @@ Machine Learning Skills: Natural Languange Processing, Computer Vision, Deep Lea
 
 [garyong.ahs@gmail.com](mailto:garyong.ahs@gmail.com)
 
-### Resume
-<a href="{{ site.baseurl }}/assets/resume.pdf" download>resume.pdf</a>
+### Curriculum Vitae
+ <a href="{{ site.baseurl }}/assets/resume.pdf" target="_blank">CV</a> as of 1/9/2020.
