@@ -98,4 +98,4 @@ So two pair is better than having almost a flush/straight. Hence if you suspect 
 Of course the art to poker is more than just knowing the probabilites. Note that the above probabilites do not take into account actions taken by your opponents! If an opponent raises he is more likely to have good cards decreasing your winning chances. Or your opponent might be bluffing. Note that the objective of poker is not to win the most number of hands but to win the most amount of money. Hence to be a good poker player one needs to convince your opponent that you are bluffing when you are not and bluff when your opponent thinks you are telling the truth while minimizing the loss if caught bluffing. As a last note, AI has already reached [superhuman level](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/) with poker.
 
 # Code
-[![Open In Colab](https://colab.research.google.com/github/garyongguanjie/deuces/blob/master/poker.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/deuces/blob/master/poker.ipynb)
