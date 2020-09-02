@@ -25,7 +25,7 @@ Due to the high computational costs I have decided to estimate them. Estimation 
 
 # Preflop Winning Probabilites
 
-Here are the estimated winning probabilites for unsuited preflop and suited preflop. For those unfamiliar preflop is where there is no card shown yet. Note unsuited means both cards have different suits. While suited meas both cards have the same suit.
+Here are the estimated winning probabilites for unsuited preflop and suited preflop. For those unfamiliar preflop is where there is no card shown yet. Note unsuited means both cards have different suits. While suited means that both cards have the same suit.
 
 ![unsuited-preflop]({{ site.baseurl }}/images/pokerImages/unsuited-preflop.PNG)
 
