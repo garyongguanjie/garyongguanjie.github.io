@@ -4,7 +4,7 @@ title: Achievements
 permalink: /achievements/
 ---
 
-###  Best AI project
+###  EPS Computer Systems Artificial Intelligence Award
 Developed a Connect4 AI using RL and other techniques. Awarded best project in 50.021 Artificial Intelligence course project.
 
 ###  Best Automation Award
