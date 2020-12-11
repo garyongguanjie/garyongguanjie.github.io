@@ -1,6 +1,6 @@
 ---
 layout: post
-title: False Positive Paradox and Covid19 Paradox in Singapore
+title: False Positive Paradox and Covid19 in Singapore
 ---
 
 Singapore is one of the few nations in the world with very low daily infections of covid19. The recent case of a false positve on a
