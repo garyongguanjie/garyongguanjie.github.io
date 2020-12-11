@@ -3,15 +3,15 @@ layout: post
 title: False Positive Paradox and Covid19 Paradox in Singapore
 ---
 
-Singapore is one of the few nations in the world with very few daily infections of covid19. The recent case of a false positve on a
-cruise ship has sparked a discussion of false positives on PCR tests on covid 19. It is important to take note of false positives with more aggressive testing on people with no symptoms or connections to prior cases.
+Singapore is one of the few nations in the world with very low daily infections of covid19. The recent case of a false positve on a
+cruise ship has sparked a discussion of false positives in PCR tests on covid 19. It is important to take note of false positives with more aggressive testing on people with no symptoms or connections to prior cases.
 
 # What is the False positive paradox?
 False positive paradox or [base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy) is the phenomena where there are more false positive results than true positives. This is seemingly counter intuitive as someone with positive result on covid19 is more likely not to have the disease. This is especially the case in Singapore as the base rate for covid19 infections in very low.
 
 # Singapore case study
 
-Let's examine this phenomena in Singapore. The base rate of daily infection in Singapore is fairly low. There are about 10 cases of covid19 cases in Singapore. Assuming this numbers are correct, the base rate in Singapore is around 10 divided by [number of swaps per day ~25 000 = 0.0004](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). Now the accuracy of a [PCR covid19 test is around 0.998](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). The probability that we are interested in is p(covid19 | + test) which is the probability that someone has contracted covid19 if they have tested positive.
+Let's examine this phenomena in Singapore. The base rate of daily infection in Singapore is fairly low. There are about 10 cases of covid19 cases in Singapore. Assuming this numbers are correct, the base rate in Singapore is around 10 divided by [number of swaps per day ~25 000 = 0.0004](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). Now the accuracy of a [PCR covid19 test is around 0.998](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). The probability that we are interested in is `p(covid19 | + test)` which is the probability that someone has contracted covid19 if they have tested positive.
 
 To solve this number we need use [bayes theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem).
 
