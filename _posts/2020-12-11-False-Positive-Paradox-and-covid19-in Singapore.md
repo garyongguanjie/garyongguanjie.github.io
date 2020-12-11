@@ -11,7 +11,7 @@ False positive paradox or [base rate fallacy](https://en.wikipedia.org/wiki/Base
 
 # Singapore case study
 
-Let's examine this phenomena in Singapore. The base rate of daily infection in Singapore is fairly low. There are about 10 cases of covid19 cases in Singapore. Assuming this numbers are correct, the base rate in Singapore is around 10 divided by [number of swaps per day ~25 000 = 0.0004](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). Now the accuracy of a [PCR covid19 test is around 0.998](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). The probability that we are interested in is `p(covid19 | + test)` which is the probability that someone has contracted covid19 if they have tested positive.
+Let's examine this phenomena in Singapore. The base rate of daily infection in Singapore is fairly low. There are about 10 cases of covid19 cases in Singapore. Assuming this numbers are correct, the base rate in Singapore is around 10 divided by [number of swaps per day ~25 000 = 0.0004](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). The accuracy of a [PCR covid19 test is around 0.998](https://www.todayonline.com/singapore/explainer-how-often-are-false-positive-covid-19-test-results-and-why-do-they-happen). The probability that we are interested in is `p(covid19 | + test)` which is the probability that someone has contracted covid19 if they have tested positive.
 
 To solve this number we need to use [bayes theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem).
 
