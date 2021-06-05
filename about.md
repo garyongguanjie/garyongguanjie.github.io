@@ -11,13 +11,19 @@ Bachelor of Engineering, Information Systems Technology and Design (Honours with
 
 Specialised in Artificial Intelligence and Data Analytics
 
+### Work Experience
+X0PA AI - Data Scientist
+
+GovTech - Software Engineer Intern
+
 ### Skills
-Languages: Python, Java, Javascript, C \
-Machine Learning Skills: Natural Languange Processing, Computer Vision, Deep Learning, Reinforcement Learning, Game AI
+Languages: Python, Java, Javascript \
+Frameworks: Numpy, Sklearn, Pytorch, FastAPI, Flask, React, Express, SQL, NoSQL \
+Other Skills: Machine Learning, Data Analytics, Natural Language Processing, Computer Vision
 
 ### Contact me
 
 [garyong.ahs@gmail.com](mailto:garyong.ahs@gmail.com)
 
 ### Curriculum Vitae
- <a href="{{ site.baseurl }}/assets/resume.pdf" target="_blank">CV</a> as of 1/9/2020.
+ <a href="{{ site.baseurl }}/assets/resume.pdf" target="_blank">CV</a> as of 6/6/2021.
