@@ -17,13 +17,13 @@ X0PA AI - Data Scientist
 GovTech - Software Engineer Intern
 
 ### Skills
-Languages: Python, Java, Javascript \
-Frameworks: Numpy, Sklearn, Pytorch, FastAPI, Flask, React, Express, SQL, NoSQL \
-Other Skills: Machine Learning, Data Analytics, Natural Language Processing, Computer Vision
+Programming Languages: Python, JavaScript, Java \
+Frameworks: Numpy, Sklearn, Pytorch, TensorFlow, FastAPI, Flask, React, Express, SQL, NoSQL \
+Other Skills: Machine Learning, Deep Learning, Data Analytics, Natural Language Processing, Computer Vision
 
 ### Contact me
 
 [garyong.ahs@gmail.com](mailto:garyong.ahs@gmail.com)
 
 ### Curriculum Vitae
- <a href="{{ site.baseurl }}/assets/resume.pdf" target="_blank">CV</a> as of 6/6/2021.
+ <a href="/export?format=pdf&attachment=false" target="_blank">CV</a>
