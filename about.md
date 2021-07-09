@@ -26,4 +26,4 @@ Other Skills: Machine Learning, Deep Learning, Data Analytics, Natural Language 
 [garyong.ahs@gmail.com](mailto:garyong.ahs@gmail.com)
 
 ### Curriculum Vitae
- <a href="/export?format=pdf&attachment=false" target="_blank">CV</a>
+ <a href="https://docs.google.com/document/d/1Mi1XsyJ-MMppwf2-wDcPv5LUn8SRnbmKEtqPObDqp7A/export?format=pdf&attachment=false" target="_blank">CV</a>
