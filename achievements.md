@@ -3,7 +3,6 @@ layout: page
 title: Achievements
 permalink: /achievements/
 ---
-# Achievements
 
 ## Best AI Project in AI Course
 - Connect4 AI was awarded Best AI project in 50.021 Artificial Intelligence course project
