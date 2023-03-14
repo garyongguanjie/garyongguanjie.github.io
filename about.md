@@ -14,3 +14,8 @@ I can python, javascript and java (in sequential level of proficiency). I specia
 Singapore University of Technology and Design\
 Bachelor of Engineering, Information Systems Technology and Design (Honours with Distinction)\
 Specialised in Artificial Intelligence and Data Analytics
+
+### Social
+[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/gary-ong-62b867193/)
+&nbsp;
+[{% include icon.html id="github" title="github" %}](https://github.com/garyongguanjie)
