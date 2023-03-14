@@ -21,10 +21,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://garyongguanjie.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Gary Ong'
+description: 'This is my website for software engineering and everything else.'
 permalink: pretty
 logo: "/assets/logo.png"
 
