@@ -16,6 +16,6 @@ Bachelor of Engineering, Information Systems Technology and Design (Honours with
 Specialised in Artificial Intelligence and Data Analytics
 
 ### Social
-[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/gary-ong-62b867193/)
-&nbsp;
-[{% include icon.html id="github" title="github" %}](https://github.com/garyongguanjie)
+[{% include icon.html id="linkedin" title="linkedin" %}https://www.linkedin.com/in/gary-ong-62b867193/](https://www.linkedin.com/in/gary-ong-62b867193/)
+
+[{% include icon.html id="github" title="github" %}https://github.com/garyongguanjie](https://github.com/garyongguanjie)
