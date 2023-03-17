@@ -25,7 +25,9 @@ tbody tr {
 tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
 }
-
+a:has(svg) {
+    background-image: none !important;
+}
 
 @import "alembic";
 
