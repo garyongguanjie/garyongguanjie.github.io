@@ -28,7 +28,7 @@ description: 'This is my website for software engineering and everything else.'
 permalink: pretty
 logo: "/assets/logo.png"
 google_analytics: "G-3LT6DDTL41"
-
+markdown: kramdown
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
