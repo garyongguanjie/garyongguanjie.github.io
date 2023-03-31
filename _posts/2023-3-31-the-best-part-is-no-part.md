@@ -5,7 +5,7 @@ usemathjax: true
 categories:
 - Tech
 ---
-![100xEngineer]({{ site.baseurl }}/images/bpnp.jpg)
+![bpnp]({{ site.baseurl }}/images/bpnp.jpg)
 
 Elon Musk has a saying 'the best part is no part'. When engineering systems be it physical or in software, it is fundamentally important to keep things as simple as possible and eliminate all unnecessary parts. This is because while having more parts may seem 'fanciful', every part has an associated cost.
 
