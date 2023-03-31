@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to be a 100x Engineer.
+title: The best part is no part
 usemathjax: true
 categories:
 - Tech
 ---
-![100xEngineer]({{ site.baseurl }}/images/100xEngineer.jpg)
+![100xEngineer]({{ site.baseurl }}/images/bpnp.jpg)
 
 Elon Musk has a saying 'the best part is no part'. When engineering systems be it physical or in software, it is fundamentally important to keep things as simple as possible and eliminate all unnecessary parts. This is because while having more parts may seem 'fanciful', every part has an associated cost.
 
@@ -13,5 +13,4 @@ Let's take the example of building a rocket. Assuming a rocket has 10,000 parts 
 
 The same can be said for software systems. [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ) has been the 'de facto' standard for modern day software architectures. While it does come with its benefits, one should still seek to minimize the number of services as much as possible as each service requires a whole team to build, test and maintain. A 100x engineer does not code 100x faster, in fact he spends 90% of his time thinking what not to write and only 10% of the time writing 1% of the code compared to others.
 
-*An engineering philosophy by an inexperienced and naive engineer. 
-( Sorry for the click bait. Also I want to test my google analytics on my site. )*
+*An engineering philosophy by an inexperienced and naive 0.1x engineer.*
