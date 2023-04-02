@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A nonsensical poem about SRE
-feature_image: "https://picsum.photos/2560/600?image=872"
 categories:
 - Tech
 ---
