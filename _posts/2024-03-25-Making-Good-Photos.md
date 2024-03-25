@@ -69,7 +69,7 @@ Using ralings as diagonal leading lines by placing the camera at just the right 
 Similar idea using railings once again as leading lines.
 
 {% include figure.html image="/images/making-good-photos/11.jpg" caption="Oryukdo, Korea" %}
-Moved camera higher to ensure human subjects are placed in the sea. Standing in the middle and moving to just the right distance to place pair of islands right between pair of people.
+The camera was elevated to ensure that human subjects were positioned fully in the sea. Adjusted position until the pair of islands was perfectly aligned between the pair of people.
 
 
 {% include figure.html image="/images/making-good-photos/12.jpg" caption="Phuket, Thailand" %} 
