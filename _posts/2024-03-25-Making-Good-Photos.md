@@ -4,7 +4,7 @@ title: "Move your camera to take better pictures"
 categories:
 - Photography
 ---
-
+<meta property="og:image" content="/images/making-good-photos/cover.jpg" />
 {% include figure.html image="/images/making-good-photos/cover.jpg" caption="Penang, Malaysia (Inspired by Moonrise Ansel Adams)" %}
 
 
