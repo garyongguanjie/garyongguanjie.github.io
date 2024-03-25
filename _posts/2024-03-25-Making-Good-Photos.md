@@ -3,8 +3,8 @@ layout: post
 title: "Move your camera to take better pictures"
 categories:
 - Photography
+image: /images/making-good-photos/cover.jpg
 ---
-<meta property="og:image" content="/images/making-good-photos/cover.jpg" />
 {% include figure.html image="/images/making-good-photos/cover.jpg" caption="Penang, Malaysia (Inspired by Moonrise Ansel Adams)" %}
 
 

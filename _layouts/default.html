@@ -9,7 +9,9 @@
     {% if page.indexing == false %}
       <meta name="robots" content="noindex">
     {% endif %}
-
+    {% if page.image %}
+      <meta content="{{ site.url }}/{{ page.image }}" property="og:image">
+    {% endif %}
     {% if page.collectionpage %}
       {% seo title=false %}
 
